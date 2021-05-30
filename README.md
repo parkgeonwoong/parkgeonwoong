@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <!-- <a href="https://github.com/parkgeonwoong" target="_blank"><img src="https://img.shields.io/badge/Python-#4A154B?style=flat-square&logo=Python&logoColor=white"/></a> -->
 <!-- <img src="https://img.shields.io/badge/Python?style=for-the-badge&logo=Python&logoColor=white"> -->
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/GitHub-#181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/GitHub-black?style=flat-square&logo=GitHub&logoColor=white"/></a>
 
 
 

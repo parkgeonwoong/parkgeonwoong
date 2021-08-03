@@ -29,6 +29,12 @@ Here are some ideas to get you started:
 <img src="http://img.shields.io/badge/Git-F05032?style&logo=Git&logoColor=white"/></a> &nbsp
 <img src="https://img.shields.io/badge/Node.js-339933?style&logo=Node.js&logoColor=white"/></a> &nbsp 
 <img src="http://img.shields.io/badge/React-61DAFB?style&logo=React&logoColor=black"/></a> &nbsp
+<img src="http://img.shields.io/badge/npm-CB3837?style&logo=npm&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/Nodemon-76D04B?style&logo=Nodemon&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/React Router-CA4245?style&logo=React Router&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/Redux-764ABC?style&logo=Redux&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/JSON Web Tokens-000000?style&logo=JSON Web Tokens&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/Postman-FF6C37?style&logo=Postman&logoColor=white"/></a> &nbsp
 </p>
 
 <p>
@@ -46,9 +52,12 @@ Here are some ideas to get you started:
 
 <p>
    <strong>• Service</strong>&nbsp&nbsp&nbsp
+<img src="http://img.shields.io/badge/Visual Studio Code-007ACC?style&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
 <a href="https://github.com/parkgeonwoong" /><img src="https://img.shields.io/badge/GitHub-black?style&logo=GitHub&logoColor=white"/></a> &nbsp
 <a href="hk77kh@gmail.com" /><img src="https://img.shields.io/badge/Gmail-d14836?style&logo=Gmail&logoColor=white"/></a> &nbsp
-<img src="http://img.shields.io/badge/Visual Studio Code-007ACC?style&logo=Visual Studio Code&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/Docker-2496ED?style&logo=Docker&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/Ubuntu-E95420?style&logo=Ubuntu&logoColor=white"/></a> &nbsp
+<img src="http://img.shields.io/badge/NGINX-009639?style&logo=NGINX&logoColor=white"/></a> &nbsp
 </p>
 <!-- <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white"&link=mailto:hk77kh@gamil.com/></a> -->
 

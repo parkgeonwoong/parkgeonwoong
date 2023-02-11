@@ -1,7 +1,7 @@
 ### 👋 Hi there
 
-<div style="display:flex; flex-direction: column">
-  <div style="display: flex; align-item: center; margin-bottom: 20px">
+<div style="display:flex; flex-direction: column;">
+  <div>
     <span style="font-weight: 700">• Language :</span> &nbsp &nbsp &nbsp
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/> &nbsp
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white"/> &nbsp
@@ -9,11 +9,15 @@
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat&logo=Python&logoColor=white"/> &nbsp
   </div>
 
+  <br />
+  
   <div style="display: flex; align-item: center; margin-bottom: 20px">
     <span style="font-weight: 700">• FrameWork :</span> &nbsp &nbsp &nbsp
     <img src="https://img.shields.io/badge/React-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>&nbsp
     <img src="https://img.shields.io/badge/React Native-20232a?style=flat-square&logo=React&logoColor=#5bccea"/></a>&nbsp
   </div>
+  
+   <br />
 
   <div style="display: flex; align-item: center; margin-bottom: 20px">
     <span style="font-weight: 700">• Tool :</span> &nbsp &nbsp &nbsp
